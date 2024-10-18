@@ -8,5 +8,5 @@ soma = 0
 print(primeiro)
 for c in range(1, 10):
     soma = soma + razao
-    print(soma)
+    print(soma, end=' -> ')
 print('ACABOU')
